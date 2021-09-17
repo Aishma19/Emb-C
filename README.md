@@ -1,5 +1,4 @@
-# Emb-C
-# CaseStudy
+# Emb-C CaseStudy
 ## The case study is divided into three Activities
 ## Activity 1 To turn on LED given when the heater and button are pressed
 ## Activity 2 To Read the ADC value using potentiometer
